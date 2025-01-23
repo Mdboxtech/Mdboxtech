@@ -1,0 +1,54 @@
+# This is a .gitignore file. It specifies intentionally untracked files that
+# Git should ignore. See https://git-scm.com/docs/gitignore for more details.
+
+# Operating system generated files
+*.swp
+.DS_Store
+.localized
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.tar.bz2
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.*
+
+# Testing
+coverage/
+reports/
+
+# Local configuration
+.vscode/
+.config/
+
+# Docker
+Dockerfile*
+docker-compose.yml
+docker-compose.override.yml
+
+# Editor preferences
+.editorconfig

@@ -30,7 +30,6 @@ header h1 {
   text-align: center;
   padding: 0 1rem;
 }
-
 header p {
   font-size: clamp(1.5rem, 3vw, 2rem);
   color: #44aa88;
