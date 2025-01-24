@@ -19,5 +19,5 @@ Feel free to explore my repositories, and don’t hesitate to reach out for coll
 
 ### Let’s Connect  
 📧 Email: mdboxtech@gmail.com 
-📄[ [LinkedIn Profile](#)  ](https://www.linkedin.com/in/muhammad-abdullahi-ali-a47307292/)
+📄[ [LinkedIn Profile (https://www.linkedin.com/in/muhammad-abdullahi-ali-a47307292/)
 
